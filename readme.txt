@@ -23,7 +23,7 @@ mongodbMonitor Configuration
 		add	robotname = <your local robot name>
 			os_user2 = <Your site Name>
 
-	mongodbMonitor.cfg
+	mongodbMonitor.dat
 		add
 		myip = <IP your MongoDB>
 		myport = <Port to connection to your MongoDB>

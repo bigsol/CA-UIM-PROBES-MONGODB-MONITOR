@@ -31,5 +31,5 @@ mongodbMonitor Configuration
 		pass = <password>
 		mongolocate = C:\MongoDB\Server\4.2\bin
 		
-
+Drag the file to the archive.
  

@@ -32,4 +32,6 @@ mongodbMonitor Configuration
 		mongolocate = C:\MongoDB\Server\4.2\bin
 		
 Drag the file to the archive.
- 
+
++++++++++++++++++++++++++++++++++++++++++++++
+If you want to get a dashboard of the probe, send an email to mydomain@wmail.co.il
